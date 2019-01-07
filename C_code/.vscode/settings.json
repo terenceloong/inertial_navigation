@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "inertial_solve.h": "c",
+        "mex.h": "c",
+        "math.h": "c",
+        "transfer_alignment.h": "c",
+        "matrix.h": "c",
+        "stdio.h": "c",
+        "matrix_operation.h": "c"
+    }
+}

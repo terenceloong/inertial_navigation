@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1543221946 source:c:\users\longt\desktop\nav\axes.c
+	<math.h>
+
+1543231849 source:c:\users\longt\desktop\nav\inertial_solve.c
+	"inertial_solve.h"
+	"axes.h"
+	<math.h>
+
+1543231788 c:\users\longt\desktop\nav\inertial_solve.h
+	<stdint.h>
+
+1543221990 c:\users\longt\desktop\nav\axes.h
+
+1543299080 source:c:\users\longt\desktop\nav\matrix_operation.c
+	<stdio.h>
+
+1543374792 source:c:\users\longt\desktop\nav\transfer_alignment.c
+	"transfer_alignment.h"
+	"inertial_solve.h"
+	"axes.h"
+	"matrix_operation.h"
+	<string.h>
+	<math.h>
+
+1543281590 c:\users\longt\desktop\nav\transfer_alignment.h
+
+1543299121 c:\users\longt\desktop\nav\matrix_operation.h
+
+1543372410 source:c:\users\longt\desktop\nav\debug_transfer_alignment\main.c
+	<stdio.h>
+	<stdint.h>
+	"inertial_solve.h"
+	"transfer_alignment.h"
+

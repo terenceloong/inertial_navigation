@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:/Program Files/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/include/*",
+                "D:/Program Files/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/atlmfc/include/*",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/um",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/ucrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/shared",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/winrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/cppwinrt",
+                "D:/Program Files/MATLAB/R2018b/extern/include"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "D:/Program Files/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/include/*",
+                    "D:/Program Files/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/atlmfc/include/*",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/um",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/ucrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/shared",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/winrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/cppwinrt",
+                    "D:/Program Files/MATLAB/R2018b/extern/include"
+                ]
+            }
+        }
+    ],
+    "version": 3
+}
